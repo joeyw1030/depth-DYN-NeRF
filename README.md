@@ -1,1 +1,2 @@
-#Depth-based dynamic sampling of neural radiation fields
+Depth-based dynamic sampling of neural radiation fields
+====
